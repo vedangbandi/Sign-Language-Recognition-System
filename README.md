@@ -511,9 +511,9 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/Sign-Language-Recognition-System/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/Sign-Language-Recognition-System/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/vedangbandi/Sign-Language-Recognition-System/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/vedangbandi/Sign-Language-Recognition-System/discussions)
+- **Email**: bandivedang@gmail.com
 
 ---
 
@@ -529,10 +529,10 @@ If you use this project in your research or work, please cite:
 
 ```bibtex
 @software{sign_language_recognition_2024,
-  author = {Your Name},
+  author = Vedang Bandi,
   title = {Sign Language Recognition System},
   year = {2024},
-  url = {https://github.com/yourusername/Sign-Language-Recognition-System}
+  url = {https://github.com/vedangbandi/Sign-Language-Recognition-System}
 }
 ```
 
@@ -544,6 +544,6 @@ If you use this project in your research or work, please cite:
 
 **Let's build a more connected world! 🌍**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by Vedang Bandi (https://github.com/vedangbandi)
 
 </div>
